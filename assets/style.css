@@ -1,0 +1,10 @@
+.display {
+    background-color: rgb(18, 168, 51);
+    font-size: 30px;
+    color: floralwhite;
+    text-align: center;
+    max-width: 450px;
+    min-height: 1em;
+    padding-top: 3px;
+    margin-left: 20px;
+}
